@@ -1,0 +1,15 @@
+/Users/farukipek/Desktop/Patika/c#/operatorler/bin/Debug/net5.0/operatorler.deps.json
+/Users/farukipek/Desktop/Patika/c#/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.json
+/Users/farukipek/Desktop/Patika/c#/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.dev.json
+/Users/farukipek/Desktop/Patika/c#/operatorler/bin/Debug/net5.0/operatorler.dll
+/Users/farukipek/Desktop/Patika/c#/operatorler/bin/Debug/net5.0/ref/operatorler.dll
+/Users/farukipek/Desktop/Patika/c#/operatorler/bin/Debug/net5.0/operatorler.pdb
+/Users/farukipek/Desktop/Patika/c#/operatorler/obj/Debug/net5.0/operatorler.csproj.AssemblyReference.cache
+/Users/farukipek/Desktop/Patika/c#/operatorler/obj/Debug/net5.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farukipek/Desktop/Patika/c#/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfoInputs.cache
+/Users/farukipek/Desktop/Patika/c#/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfo.cs
+/Users/farukipek/Desktop/Patika/c#/operatorler/obj/Debug/net5.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/farukipek/Desktop/Patika/c#/operatorler/obj/Debug/net5.0/operatorler.dll
+/Users/farukipek/Desktop/Patika/c#/operatorler/obj/Debug/net5.0/ref/operatorler.dll
+/Users/farukipek/Desktop/Patika/c#/operatorler/obj/Debug/net5.0/operatorler.pdb
+/Users/farukipek/Desktop/Patika/c#/operatorler/obj/Debug/net5.0/operatorler.genruntimeconfig.cache
