@@ -1,0 +1,15 @@
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/bin/Debug/net5.0/9 - diziler.deps.json
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/bin/Debug/net5.0/9 - diziler.runtimeconfig.json
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/bin/Debug/net5.0/9 - diziler.runtimeconfig.dev.json
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/bin/Debug/net5.0/9 - diziler.dll
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/bin/Debug/net5.0/ref/9 - diziler.dll
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/bin/Debug/net5.0/9 - diziler.pdb
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/obj/Debug/net5.0/9 - diziler.csproj.AssemblyReference.cache
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/obj/Debug/net5.0/9 - diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/obj/Debug/net5.0/9 - diziler.AssemblyInfoInputs.cache
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/obj/Debug/net5.0/9 - diziler.AssemblyInfo.cs
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/obj/Debug/net5.0/9 - diziler.csproj.CoreCompileInputs.cache
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/obj/Debug/net5.0/9 - diziler.dll
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/obj/Debug/net5.0/ref/9 - diziler.dll
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/obj/Debug/net5.0/9 - diziler.pdb
+/Users/farukipek/Desktop/Patika/c#/9 - diziler/obj/Debug/net5.0/9 - diziler.genruntimeconfig.cache
