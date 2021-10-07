@@ -1,0 +1,15 @@
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/bin/Debug/net5.0/7 - for-loop.deps.json
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/bin/Debug/net5.0/7 - for-loop.runtimeconfig.json
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/bin/Debug/net5.0/7 - for-loop.runtimeconfig.dev.json
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/bin/Debug/net5.0/7 - for-loop.dll
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/bin/Debug/net5.0/ref/7 - for-loop.dll
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/bin/Debug/net5.0/7 - for-loop.pdb
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/obj/Debug/net5.0/7 - for-loop.csproj.AssemblyReference.cache
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/obj/Debug/net5.0/7 - for-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/obj/Debug/net5.0/7 - for-loop.AssemblyInfoInputs.cache
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/obj/Debug/net5.0/7 - for-loop.AssemblyInfo.cs
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/obj/Debug/net5.0/7 - for-loop.csproj.CoreCompileInputs.cache
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/obj/Debug/net5.0/7 - for-loop.dll
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/obj/Debug/net5.0/ref/7 - for-loop.dll
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/obj/Debug/net5.0/7 - for-loop.pdb
+/Users/farukipek/Desktop/Patika/c#/7 - for-loop/obj/Debug/net5.0/7 - for-loop.genruntimeconfig.cache
