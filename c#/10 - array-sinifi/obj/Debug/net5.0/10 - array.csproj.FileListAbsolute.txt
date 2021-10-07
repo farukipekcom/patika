@@ -1,0 +1,15 @@
+/Users/farukipek/Desktop/Patika/c#/10 - array/bin/Debug/net5.0/10 - array.deps.json
+/Users/farukipek/Desktop/Patika/c#/10 - array/bin/Debug/net5.0/10 - array.runtimeconfig.json
+/Users/farukipek/Desktop/Patika/c#/10 - array/bin/Debug/net5.0/10 - array.runtimeconfig.dev.json
+/Users/farukipek/Desktop/Patika/c#/10 - array/bin/Debug/net5.0/10 - array.dll
+/Users/farukipek/Desktop/Patika/c#/10 - array/bin/Debug/net5.0/ref/10 - array.dll
+/Users/farukipek/Desktop/Patika/c#/10 - array/bin/Debug/net5.0/10 - array.pdb
+/Users/farukipek/Desktop/Patika/c#/10 - array/obj/Debug/net5.0/10 - array.csproj.AssemblyReference.cache
+/Users/farukipek/Desktop/Patika/c#/10 - array/obj/Debug/net5.0/10 - array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farukipek/Desktop/Patika/c#/10 - array/obj/Debug/net5.0/10 - array.AssemblyInfoInputs.cache
+/Users/farukipek/Desktop/Patika/c#/10 - array/obj/Debug/net5.0/10 - array.AssemblyInfo.cs
+/Users/farukipek/Desktop/Patika/c#/10 - array/obj/Debug/net5.0/10 - array.csproj.CoreCompileInputs.cache
+/Users/farukipek/Desktop/Patika/c#/10 - array/obj/Debug/net5.0/10 - array.dll
+/Users/farukipek/Desktop/Patika/c#/10 - array/obj/Debug/net5.0/ref/10 - array.dll
+/Users/farukipek/Desktop/Patika/c#/10 - array/obj/Debug/net5.0/10 - array.pdb
+/Users/farukipek/Desktop/Patika/c#/10 - array/obj/Debug/net5.0/10 - array.genruntimeconfig.cache
