@@ -1,0 +1,15 @@
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/bin/Debug/net5.0/8 - while-loop.deps.json
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/bin/Debug/net5.0/8 - while-loop.runtimeconfig.json
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/bin/Debug/net5.0/8 - while-loop.runtimeconfig.dev.json
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/bin/Debug/net5.0/8 - while-loop.dll
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/bin/Debug/net5.0/ref/8 - while-loop.dll
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/bin/Debug/net5.0/8 - while-loop.pdb
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/obj/Debug/net5.0/8 - while-loop.csproj.AssemblyReference.cache
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/obj/Debug/net5.0/8 - while-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/obj/Debug/net5.0/8 - while-loop.AssemblyInfoInputs.cache
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/obj/Debug/net5.0/8 - while-loop.AssemblyInfo.cs
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/obj/Debug/net5.0/8 - while-loop.csproj.CoreCompileInputs.cache
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/obj/Debug/net5.0/8 - while-loop.dll
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/obj/Debug/net5.0/ref/8 - while-loop.dll
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/obj/Debug/net5.0/8 - while-loop.pdb
+/Users/farukipek/Desktop/Patika/c#/8 - while-loop/obj/Debug/net5.0/8 - while-loop.genruntimeconfig.cache
