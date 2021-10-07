@@ -1,0 +1,15 @@
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/bin/Debug/net5.0/6 - switch-case.deps.json
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/bin/Debug/net5.0/6 - switch-case.runtimeconfig.json
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/bin/Debug/net5.0/6 - switch-case.runtimeconfig.dev.json
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/bin/Debug/net5.0/6 - switch-case.dll
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/bin/Debug/net5.0/ref/6 - switch-case.dll
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/bin/Debug/net5.0/6 - switch-case.pdb
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/obj/Debug/net5.0/6 - switch-case.csproj.AssemblyReference.cache
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/obj/Debug/net5.0/6 - switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/obj/Debug/net5.0/6 - switch-case.AssemblyInfoInputs.cache
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/obj/Debug/net5.0/6 - switch-case.AssemblyInfo.cs
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/obj/Debug/net5.0/6 - switch-case.csproj.CoreCompileInputs.cache
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/obj/Debug/net5.0/6 - switch-case.dll
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/obj/Debug/net5.0/ref/6 - switch-case.dll
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/obj/Debug/net5.0/6 - switch-case.pdb
+/Users/farukipek/Desktop/Patika/c#/6 - switch-case/obj/Debug/net5.0/6 - switch-case.genruntimeconfig.cache
