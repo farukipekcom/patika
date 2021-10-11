@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+body {
+  font-family: "Montserrat", sans-serif;
+  color: #000;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+header .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  height: 80px;
+}
+
+header .container .logo {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+header .container .logo a {
+  color: #000;
+  text-decoration: none;
+}
+
+header .container nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+header .container nav ul li {
+  list-style-type: none;
+  padding-left: 16px;
+  font-weight: 500;
+}
+
+header .container nav ul li a {
+  color: #000;
+  text-decoration: none;
+}
+
+main {
+  margin-top: 80px;
+}
+
+main .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+main .container .left {
+  width: 60%;
+}
+
+main .container .left p {
+  margin-top: 24px;
+  line-height: 1.5;
+}
+
+main .container .left p a {
+  font-weight: 600;
+  color: #222;
+}
+
+main .container .left p span {
+  font-weight: 600;
+}
+
+main .container .right {
+  width: 40%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+main .container .right img {
+  width: 250px;
+  height: 250px;
+}
+/*# sourceMappingURL=style.css.map */
