@@ -1,0 +1,111 @@
+.container {
+  margin: 0 auto;
+  width: 90%;
+}
+
+.google .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.google .container .form {
+  background-color: #eee;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.google .container .form p {
+  margin: 0px;
+}
+
+.google .container .form input {
+  width: 293px;
+}
+
+.google .container .footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-top: 2px;
+}
+
+.google .container .footer .box {
+  background-color: #7ee5da;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-left: 2px;
+}
+
+.google .container .footer .box p {
+  margin: 0px;
+}
+
+.google .container .footer .box ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+.google .container .footer .box ul li {
+  list-style-type: none;
+  text-align: center;
+  font-size: 12px;
+}
+
+.google .container .footer .box ul li a {
+  color: blue;
+}
+
+.google .container .footer .box1 {
+  width: 37%;
+}
+
+.google .container .footer .box2 {
+  background-color: #70ccc2;
+  width: 25%;
+}
+
+.google .container .footer .box3 {
+  background-color: #62b3aa;
+  width: 38%;
+}
+
+.google .container .copyright {
+  font-size: 14px;
+  margin-top: 12px;
+}
+/*# sourceMappingURL=style.css.map */
